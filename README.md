@@ -1,6 +1,13 @@
-## Hi I'm Ahmed <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Ahmed Mohamed
 
-I'm a Software Engineer based in Hargeisa, Somaliland. I Spend most of time coding outstanding projects.
+I'm Ahmed from Hargeisa, Somaliland. I do content on Design and Development. I really enjoy learning languages and frameworks like React and Node js, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+
+## Skills and Experience
+
+- ⚛ React
+- 📱Figma
+- 💻 HTML, CSS, JS
+- 🔰Node.js
 
 :mailbox: Reach me out!
 
@@ -17,9 +24,3 @@ I'm a Software Engineer based in Hargeisa, Somaliland. I Spend most of time codi
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
-
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#) [![Python Badge](https://img.shields.io/badge/-Flutter-3F79AC?style=for-the-badge&labelColor=black&logo=flutter&logoColor=3F79AC)](#)
-
-#### Github Stats
-
-![Mubarak's github stats](https://github-readme-stats.vercel.app/api?username=iamshabell&count_private=true&theme=tokyonight&hide=contribs,prs)
